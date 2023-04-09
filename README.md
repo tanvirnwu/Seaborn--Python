@@ -1,1 +1,3 @@
-# Seaborn--Python
+## Seaborn--Python
+
+CP = Categorical Plots
