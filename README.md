@@ -1,4 +1,4 @@
 ## Seaborn--Python
 
-CP = Categorical Plots
+CP = Categorical Plots </br>
 DP = Distribution Plots
